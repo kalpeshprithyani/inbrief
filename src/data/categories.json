@@ -1,0 +1,106 @@
+{
+  "categories": [
+      {
+        "id": 1,
+        "title": "Article 370",
+        "link": "article370",
+        "img": "/article.jpg"
+      },
+    {
+      "id": 2,
+      "title": "Assembly Elections 2019",
+      "link": "elections2019",
+      "img": "/election.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Ayodhya Verdict",
+      "link": "ayodhyaverdict",
+      "img": "/ayodhaya.jpg"
+    },
+    {
+      "id": 4,
+      "title": "India",
+      "link": "india",
+      "img": "/india.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Business",
+      "link": "business",
+      "img": "/business.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Politics",
+      "link": "politics",
+      "img": "/politics.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Sports",
+      "link": "sports",
+      "img": "/sports.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Technology",
+      "link": "technology",
+      "img": "/technology.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Startups",
+      "link": "startups",
+      "img": "/startup.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Entertainment",
+      "link": "entertainment",
+      "img": "/entertainment.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Hatke",
+      "link": "hatke",
+      "img": "/hatke.jpg"
+    },
+    {
+      "id": 12,
+      "title": "International",
+      "link": "international",
+      "img": "/international.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Automobile",
+      "link": "automobile",
+      "img": "/automobile.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Science",
+      "link": "science",
+      "img": "/science.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Travel",
+      "link": "travel",
+      "img": "/travel.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Miscellaneous",
+      "link": "miscellaneous",
+      "img": "/travel.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Fashion",
+      "link": "fashion",
+      "img": "/fashion.jpg"
+    }
+  ]
+}
