@@ -1,3 +1,6 @@
+![logo](https://github.com/kalpeshprithyani/inshorts/blob/master/src/img/logo2.png)
+
+
 Created Using React, Redux & Firebase.
 
 This project was a redesign of inshorts desktop app. Check out the whole process at [Behance](https://www.behance.net/gallery/92443015/UX-Inshorts-Redesign-Develop).
